@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\externalfiles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9FE4-D7AF-4B95-8958-ADBEE970AC77}|externalfiles\\externalfiles.vcxproj|C:\\Users\\user\\source\\repos\\externalfiles\\externalfiles\\m.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3CD9FE4-D7AF-4B95-8958-ADBEE970AC77}|externalfiles\\externalfiles.vcxproj|solutionrelative:externalfiles\\m.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD9FE4-D7AF-4B95-8958-ADBEE970AC77}|externalfiles\\externalfiles.vcxproj|C:\\Users\\user\\source\\repos\\externalfiles\\externalfiles\\aaaas.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B3CD9FE4-D7AF-4B95-8958-ADBEE970AC77}|externalfiles\\externalfiles.vcxproj|solutionrelative:externalfiles\\aaaas.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "m.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\externalfiles\\externalfiles\\m.cpp",
+              "RelativeDocumentMoniker": "externalfiles\\m.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\externalfiles\\externalfiles\\m.cpp",
+              "RelativeToolTip": "externalfiles\\m.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T10:23:46.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aaaas.asm",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\externalfiles\\externalfiles\\aaaas.asm",
+              "RelativeDocumentMoniker": "externalfiles\\aaaas.asm",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\externalfiles\\externalfiles\\aaaas.asm",
+              "RelativeToolTip": "externalfiles\\aaaas.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T10:22:50.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
