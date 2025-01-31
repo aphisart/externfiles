@@ -13,4 +13,10 @@ int main() {
 			std::cin >> matr[i][j];
 	res = rarr(*matr, n, m);
 	std::cout << res << '\n';
+	//////
+
+
+	////
+	//
+	//
 }
